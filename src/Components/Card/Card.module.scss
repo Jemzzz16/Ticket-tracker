@@ -1,0 +1,18 @@
+.teamCard {
+  position: relative;
+  height: 300px;
+  width: 200px;
+  border: 3px solid black;
+  font-family: "Courier New";
+}
+.counter {
+  position: absolute;
+  height: 155px;
+  width: 125px;
+  align-items: center;
+  border: 3px solid black;
+  margin: 40px;
+  p {
+    font-size: 20px;
+  }
+}
